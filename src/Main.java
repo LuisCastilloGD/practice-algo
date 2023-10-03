@@ -1,6 +1,6 @@
 public class Main {
 
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    //All other classes are just a copy of the solution to each task.
   }
 }
